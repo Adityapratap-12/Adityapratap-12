@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Pratap</h1>
+<h1 align="center">Hi , I'm Aditya Pratap</h1>
 <h3 align="center">Full Stack Developer | Crafting Interactive Web Experiences</h3>
 
 
