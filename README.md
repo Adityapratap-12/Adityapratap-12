@@ -1,107 +1,99 @@
-<h1 align="center">Hi , I'm Aditya Pratap</h1>
-<h3 align="center">Full Stack Developer | Crafting Interactive Web Experiences</h3>
+<h1 align="center">Hi 👋, I'm Aditya Pratap</h1>
 
-
-
----
-
-## 🚀 About Me
-
-I'm a passionate **Full Stack Developer** who loves building interactive, user-friendly, and visually clean web experiences.
-
-- 👨‍💻 I enjoy creating mini-games & UI-based projects  
-- 🌱 Currently learning **React, Node.js & MongoDB**  
-- ⚡ Quick learner and obsessed with clean UI  
-- 🎯 Goal: Become a top-tier Software Engineer  
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Web+Developer;Aspiring+Software+Development+Engineer;Full+Stack+MERN+Developer;Building+Scalable+and+Clean+Web+Applications" 
+    alt="Typing SVG" />
+</p>
 
 ---
 
-## 🎯 My Mission
+## 👨‍💻 About Me
 
-To build scalable, maintainable, and visually appealing digital products that solve real-world problems.  
-I believe in **learning by building** — and GitHub is where ideas turn into code.
+I am a **Web Developer and aspiring Software Development Engineer (SDE)** with a strong foundation in **frontend and backend development**.  
+I focus on writing **clean, scalable, and maintainable code** while continuously improving my **problem-solving and software engineering skills**.
 
----
-
-## 🧠 Currently Learning
-
-- Advanced JavaScript concepts  
-- React Hooks & State Management  
-- REST APIs using Node.js + Express  
-- MongoDB / Mongoose  
-- Git & Version Control Best Practices  
+- Experience with **MERN stack** and modern web tools  
+- Strong interest in **Data Structures & Algorithms** using C++  
+- Passionate about performance, UI/UX, and system thinking  
+- Internship experience in real-world frontend development  
 
 ---
 
-## 🥅 2025 Goals
+## 🧠 Technical Skills
 
-- Create 10+ full-stack projects  
-- Start contributing to open source  
-- Master React ecosystem  
-- Learn TypeScript  
-- Improve DSA  
-- Secure an internship as a Web Developer  
+### 🎨 Frontend Development
+`HTML` `CSS` `JavaScript` `React` `Vite` `TypeScript` `Tailwind CSS`
 
----
-
-## 🧰 Tech Stack
-
-### **Frontend**
-`HTML` `CSS` `JavaScript` `React` `Vite`
-
-### **Backend**
+### ⚙ Backend Development
 `Node.js` `Express.js`
 
-### **Database**
-`MongoDB`  
+### 🗄 Database
+`MongoDB`
 
-### **Tools**
-`Git` `GitHub` `VS Code` `Vercel`
+### 🛠 Tools & Platforms
+`Git` `GitHub` `VS Code` `Postman` `Netlify` `Vercel`
+
+### 💻 Programming & DSA
+`C++` `LeetCode` `HackerRank`
 
 ---
 
-## 📦 Toolbox (Badges)
+## 🧰 Tech Stack Badges
 
-![HTML5](https://img.shields.io/badge/HTML-FF4B00?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF4B00?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 **Quiz App (React + Vite)**
-An interactive quiz platform with multiple difficulty levels, score tracking, and a clean UI.  
-⭐ *Tech:* React, JavaScript  
+### 🔹 **Portfolio Website**
+Professional portfolio showcasing projects, skills, and contact information.  
+**Tech:** HTML, CSS, JavaScript  
+
+
+---
+
+### 🔹 **DSA Prep Website**
+Multi-page DSA interview preparation platform inspired by product-based company interviews.  
+Includes topic-wise questions and structured preparation flow.  
+**Tech:** HTML, CSS  
 
 ---
 
 ### 🔹 **Snake Game**
-Classic browser-based Snake game with smooth controls and collision detection.  
-⭐ *Tech:* HTML, CSS, JavaScript  
+Classic browser-based Snake game with smooth movement and collision logic.  
+**Tech:** HTML, CSS, JavaScript  
 
 ---
 
-### 🔹 **Calculator**
-A responsive calculator with basic operations and clean design.  
-⭐ *Tech:* HTML, CSS, JavaScript  
-
----
-
-### 🔹 **Tic-Tac-Toe**
-A functional Tic-Tac-Toe game with win/draw detection logic.  
-⭐ *Tech:* HTML, CSS, JS  
+### 🔹 **Tic Tac Toe**
+Interactive Tic Tac Toe game with win/draw logic and clean UI.  
+**Tech:** HTML, CSS, JavaScript  
 
 ---
 
 ### 🔹 **StayEZ**
-Simple website project showcasing clean structure.  
-⭐ *Tech:* HTML  
+Simple website project demonstrating layout structuring and semantic HTML.  
+**Tech:** HTML  
+
+---
+
+## 🧑‍💼 Internship Experience
+
+### 💼 CodSoft — Web Development Intern
+- Built multiple frontend projects using HTML & CSS  
+- Improved UI/UX and layout structuring skills  
+- Gained hands-on experience with real-world development workflow  
 
 ---
 
@@ -114,13 +106,13 @@ Simple website project showcasing clean structure.
 
 ---
 
-
 ## 🌐 Connect With Me
 
-📧 **Email**: adityapratap0054@gmail.com
+📧 **Email:** adityapratap0054@gmail.com  
+🌍 **Portfolio:** https://adityapratap-12.github.io/Portfolio/  
+🔗 **LinkedIn:** https://linkedin.com/in/adityapratap-dev  
+💻 **GitHub:** https://github.com/Adityapratap-12  
 
-🔗 **LinkedIn**: in/adityapratap-dev
+---
 
-📸 **Instagram**: rana_aditya_pratap
-
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3> 
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
